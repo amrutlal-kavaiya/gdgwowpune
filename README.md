@@ -21,6 +21,18 @@ Google Developer Group Women in Tech (GDG WOW) Pune is a community-driven initia
 - **Networking Events**: Opportunities to connect with like-minded professionals
 - **Study Jams**: Group learning sessions on specific technologies
 
+## Workshop Proposals
+
+We welcome workshop proposals from community members. Check out our current workshop proposals:
+
+- [Cloud Machine Learning Workshop](workshop_proposals/cloud_ml_workshop.md) - Hands-on Machine Learning on Google Cloud Platform
+
+To submit your own workshop proposal:
+1. Fork this repository
+2. Create a new markdown file in the `workshop_proposals` directory
+3. Use the existing proposals as a template
+4. Submit a pull request
+
 ## Get Involved
 
 - Join our community on [GDG Community Platform](https://gdg.community.dev/)

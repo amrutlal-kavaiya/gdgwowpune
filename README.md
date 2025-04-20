@@ -21,6 +21,11 @@ Google Developer Group Women in Tech (GDG WOW) Pune is a community-driven initia
 - **Networking Events**: Opportunities to connect with like-minded professionals
 - **Study Jams**: Group learning sessions on specific technologies
 
+## Upcoming and Recent Workshops
+
+- [AI/ML Workshop - April 2025](workshops/ai-ml-workshop-2025-april.md) - Learn to build, train, and deploy ML models using Google Cloud
+- More workshops coming soon!
+
 ## Get Involved
 
 - Join our community on [GDG Community Platform](https://gdg.community.dev/)

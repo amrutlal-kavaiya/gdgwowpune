@@ -21,6 +21,14 @@ Google Developer Group Women in Tech (GDG WOW) Pune is a community-driven initia
 - **Networking Events**: Opportunities to connect with like-minded professionals
 - **Study Jams**: Group learning sessions on specific technologies
 
+## Community Experiences
+
+We're proud of the impact our events have on participants. Check out some of their experiences:
+
+- [My GDG WOW Pune Experience](experiences/my-gdg-wow-experience.md) - A detailed account of the two-day event featuring introduction activities, group discussions, knowledge sharing, and an AI workshop
+
+Want to share your experience? Submit a pull request with your story!
+
 ## Get Involved
 
 - Join our community on [GDG Community Platform](https://gdg.community.dev/)

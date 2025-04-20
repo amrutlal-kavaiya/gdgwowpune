@@ -21,6 +21,11 @@ Google Developer Group Women in Tech (GDG WOW) Pune is a community-driven initia
 - **Networking Events**: Opportunities to connect with like-minded professionals
 - **Study Jams**: Group learning sessions on specific technologies
 
+## Blog
+
+Check out our [blog section](/blog) for event recaps, tech articles, and community stories:
+- [GDG WOW Pune 2025: Celebrating Women in Tech](/blog/2025-wow-pune-event.md) - April 15-16, 2025
+
 ## Get Involved
 
 - Join our community on [GDG Community Platform](https://gdg.community.dev/)

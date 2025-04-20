@@ -21,6 +21,13 @@ Google Developer Group Women in Tech (GDG WOW) Pune is a community-driven initia
 - **Networking Events**: Opportunities to connect with like-minded professionals
 - **Study Jams**: Group learning sessions on specific technologies
 
+## Upcoming Events
+
+### GDG OC Wow Pune Workshop 2025
+We're excited to announce our collaborative workshop with GDG Orange County, scheduled for May 15-16, 2025. This 2-day immersive workshop will feature sessions on AI/ML with Google's Gemini, Flutter development, Cloud technologies, and more!
+
+[View Workshop Details](workshops/gdgoc-wow-pune-2025/README.md)
+
 ## Get Involved
 
 - Join our community on [GDG Community Platform](https://gdg.community.dev/)

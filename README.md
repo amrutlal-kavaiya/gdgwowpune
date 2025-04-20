@@ -1,17 +1,17 @@
 # GDG WOW Pune
 
-![GDG WOW Pune Logo](https://www.gdg.community.dev/assets/logo.svg)
+![GDG WOW Pune Logo](https://developers.google.com/static/community/gdg/images/gdg-icon.svg)
 
 ## About GDG WOW Pune
 
-Google Developer Group Women in Tech (GDG WOW) Pune is a community-driven initiative focused on empowering women in technology across Pune, India. Our mission is to create an inclusive environment where women developers, designers, and tech enthusiasts can learn, share knowledge, and grow together.
+Google Developer Group WOW Pune is a community-driven initiative focused on bringing together developers, designers, and tech enthusiasts across Pune, India. Our mission is to create an inclusive environment where everyone interested in technology can learn, share knowledge, and grow together.
 
 ## Our Mission
 
-- Foster a supportive community for women in technology
+- Foster a supportive and inclusive tech community
 - Provide learning opportunities through workshops, hackathons, and tech talks
-- Connect women developers with mentors and industry professionals
-- Promote diversity and inclusion in the tech industry
+- Connect developers with mentors and industry professionals
+- Promote innovation and collaboration in the tech ecosystem
 
 ## Events and Activities
 
@@ -20,6 +20,16 @@ Google Developer Group Women in Tech (GDG WOW) Pune is a community-driven initia
 - **Hackathons**: Collaborative coding events to solve real-world problems
 - **Networking Events**: Opportunities to connect with like-minded professionals
 - **Study Jams**: Group learning sessions on specific technologies
+- **DevFest**: Our annual flagship event celebrating technology and community
+
+## Resources
+
+- [Google Developer Documentation](https://developers.google.com/docs)
+- [Codelabs](https://codelabs.developers.google.com/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Flutter](https://flutter.dev/)
+- [Firebase](https://firebase.google.com/)
+- [Android Developers](https://developer.android.com/)
 
 ## Get Involved
 
@@ -36,6 +46,10 @@ We follow the [Google Developer Community Guidelines](https://developers.google.
 ## Contact Us
 
 For any inquiries, please reach out to us at [gdgwowpune@gmail.com](mailto:gdgwowpune@gmail.com)
+
+## Core Team Members
+
+- [Join us as a core team member!](#)
 
 ---
 

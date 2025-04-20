@@ -21,6 +21,15 @@ Google Developer Group Women in Tech (GDG WOW) Pune is a community-driven initia
 - **Networking Events**: Opportunities to connect with like-minded professionals
 - **Study Jams**: Group learning sessions on specific technologies
 
+## Upcoming Events
+
+| Date | Event | Location | Description |
+|------|-------|----------|-------------|
+| May 10, 2025 | Flutter Forward | Virtual | Introduction to Flutter framework and hands-on workshop for building cross-platform apps |
+| May 25, 2025 | Women in AI Symposium | J.W. Marriott, Pune | A day-long conference featuring talks by women leaders in AI and machine learning |
+| June 8, 2025 | Web Development Bootcamp | Symbiosis Institute, Pune | Intensive bootcamp on modern web development technologies |
+| June 20, 2025 | Google Cloud Study Jam | Infosys Campus, Hinjewadi | Learn Google Cloud Platform basics and get hands-on experience with Cloud services |
+
 ## Get Involved
 
 - Join our community on [GDG Community Platform](https://gdg.community.dev/)

@@ -1,42 +1,24 @@
-# GDG WOW Pune
+ok, idk where to start
+but GDGoC Pune did a really great job and made WOW 25 happen!
 
-![GDG WOW Pune Logo](https://www.gdg.community.dev/assets/logo.svg)
+there was no other event like today.
 
-## About GDG WOW Pune
+starting off with Nikita Gandhi, i cannot explain how to appreciate her efforts in presenting her part. it was like a necessity for this gen of devs! 
+although 
+i took as much points from her part, but this particular line is stuck with me "What will it take to do X?", and i hope to keep questioning myself, and start reflecting even more! 
 
-Google Developer Group Women in Tech (GDG WOW) Pune is a community-driven initiative focused on empowering women in technology across Pune, India. Our mission is to create an inclusive environment where women developers, designers, and tech enthusiasts can learn, share knowledge, and grow together.
+next was Aditya Shende, and his insights from Cyber Security.
+and it absolutely helped us to explore more about Hacking!
 
-## Our Mission
+Vaibhav Malpani and Mangesh Dabaki brought ai studio and experimental features to the table! and honestly, they were quite interesting. specially, the Notebook LM was quite interesting.
 
-- Foster a supportive community for women in technology
-- Provide learning opportunities through workshops, hackathons, and tech talks
-- Connect women developers with mentors and industry professionals
-- Promote diversity and inclusion in the tech industry
+Rishi Gandhi presentation was relatable, as i am working towards the same goal! 
+lets see how things happen!!
 
-## Events and Activities
+the Panel Discussions were really great!
+Sharmilee Sarkar, Priyanka Salunke and Tanisha Dusane made it much clear, how to get into big tech giants!
+would be doing DSA as you'll mentioned!
 
-- **Technical Workshops**: Hands-on sessions on Google technologies and other tech stacks
-- **Speaker Sessions**: Talks by industry experts and thought leaders
-- **Hackathons**: Collaborative coding events to solve real-world problems
-- **Networking Events**: Opportunities to connect with like-minded professionals
-- **Study Jams**: Group learning sessions on specific technologies
-
-## Get Involved
-
-- Join our community on [GDG Community Platform](https://gdg.community.dev/)
-- Follow us on social media for updates
-- Attend our events and workshops
-- Contribute to our open-source projects
-- Volunteer to help organize events
-
-## Community Guidelines
-
-We follow the [Google Developer Community Guidelines](https://developers.google.com/community-guidelines) to ensure a positive and inclusive experience for everyone.
-
-## Contact Us
-
-For any inquiries, please reach out to us at [gdgwowpune@gmail.com](mailto:gdgwowpune@gmail.com)
-
----
-
-© 2025 GDG WOW Pune | This is not an official Google product
+a great appreciation to one of the best anchor, Chinmay Bhalerao!
+the event was really engaging and fun! 
+hoping to enjoy and learn tmr!

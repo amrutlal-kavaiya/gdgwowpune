@@ -1,0 +1,36 @@
+# My GDG WOW Pune Experience at MIT-WPU
+
+Date: April 20, 2025
+Event: GDG WOW Pune Technical Event
+Venue: MIT World Peace University (MIT-WPU)
+
+## Event Highlights
+
+What an incredible day at the GDG WOW Pune technical event! The energy at MIT-WPU was electric, with developers, designers, and tech enthusiasts from all over Pune coming together to learn and connect. 
+
+The event kicked off with an inspiring keynote about the future of AI and how Google's technologies are shaping the landscape. The speaker's insights on responsible AI development resonated deeply with me, especially the emphasis on creating inclusive technology.
+
+## Workshops I Attended
+
+The Android Development workshop was hands-down my favorite session. The instructor walked us through creating a modern Android app using Jetpack Compose, and I was amazed at how quickly we could build an intuitive UI. This was my first time using Compose, and I'm already planning to refactor my current projects to use it.
+
+I also attended the Cloud Functions workshop, where we built serverless applications using Google Cloud. The practical approach helped me understand how to architect scalable solutions without managing infrastructure.
+
+## Networking Opportunities
+
+The event provided excellent opportunities to connect with like-minded professionals. During lunch, I had an insightful conversation with a Google Developer Expert about career growth in the ML field. The diversity of attendees—from students to senior developers—created a rich environment for knowledge exchange.
+
+## Key Takeaways
+
+1. The importance of community in personal and professional growth
+2. Hands-on experience with the latest Google technologies
+3. Insights into industry best practices and emerging trends
+4. New connections with talented developers in Pune
+
+## Looking Forward
+
+I'm excited to apply what I learned at the event to my current projects. The GDG WOW Pune community is incredibly supportive, and I plan to become more active in future meetups and contribute to their initiatives.
+
+Thanks to the organizers for putting together such a well-structured and informative event. Special appreciation to MIT-WPU for hosting and providing excellent facilities.
+
+#GDGWoWPune #TechCommunity #GoogleDevelopers #MITWPUEvents

@@ -1,0 +1,57 @@
+# My GDG WOW Pune Event Experience
+
+## Event: GDG WOW Pune Developer Conference 2025
+## Date: April 15, 2025
+## Venue: Pune IT Park Conference Center
+
+As a technology enthusiast always eager to connect with like-minded professionals, attending the GDG WOW Pune event was an incredible experience I'll cherish for a long time. The Women of Wonder (WOW) theme showcased the amazing work of women in technology while creating an inclusive environment for all attendees.
+
+### Highlights:
+
+#### Opening Keynote
+The day started with an inspiring keynote on "Breaking Barriers in Tech" by Priya Sharma, Engineering Director at Google. Her journey from a small town in Maharashtra to leading large engineering teams was both motivating and relatable. Her emphasis on mentorship and community support resonated deeply with me.
+
+#### Technical Workshops
+I participated in the "Building with Firebase" workshop where we created a real-time application from scratch. The hands-on approach helped me understand concepts I had been struggling with. The workshop facilitators were patient and knowledgeable, making complex topics accessible for everyone regardless of experience level.
+
+#### Panel Discussion
+The diversity in tech panel featuring leaders from Google, Microsoft, and local startups offered valuable insights into creating inclusive workplaces. The discussion on allyship was eye-opening and gave me practical ways to support diversity in my own professional environment.
+
+#### Networking Opportunities
+During lunch and coffee breaks, I connected with developers from various backgrounds. Exchanging ideas with professionals from different domains expanded my perspective on how technology is applied across industries. I met potential mentors and even found teammates for future hackathons!
+
+#### Tech Showcase
+The demo session where participants showcased their projects was incredible. Seeing applications that addressed local community challenges using Google technologies was inspiring. A standout project was an accessibility app designed for visually impaired users navigating Pune's public transportation.
+
+### What I Learned:
+
+1. Google's ML Kit is more accessible than I previously thought, with practical applications I can implement in my current projects
+2. The importance of community in professional growth and continuous learning
+3. New approaches to problem-solving through diverse perspectives
+4. Practical tips for contributing to open-source projects as a beginner
+
+### Impact on My Career:
+
+This event has motivated me to become more active in the GDG Pune community. I've already joined a study group formed during the event to explore Firebase and Kotlin development. The connections I made have opened doors to collaboration opportunities I wouldn't have discovered otherwise.
+
+The inclusive and supportive atmosphere at GDG WOW Pune has inspired me to share my knowledge with others. I'm now considering presenting a lightning talk at the next community meetup about my experience implementing the techniques I learned.
+
+### Gratitude:
+
+A huge thank you to the organizing team for creating such a welcoming environment and curating high-quality content. The attention to detail - from session topics to dietary accommodations - showed their commitment to making everyone feel valued.
+
+Special appreciation to the volunteers who ensured everything ran smoothly and were always ready to help with a smile.
+
+### Looking Forward:
+
+I'm already looking forward to the next GDG WOW event! In the meantime, I'll be applying what I learned and staying connected with the community through local meetups and online forums.
+
+If you're considering attending a GDG WOW event in the future - don't hesitate! Whether you're a beginner or experienced developer, there's something valuable for everyone.
+
+---
+
+*Om Kute*  
+Software Developer  
+[LinkedIn: omkute](https://www.linkedin.com/in/omkute)  
+[GitHub: omkute](https://github.com/omkute)  
+April 20, 2025
